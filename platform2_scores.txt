@@ -1,0 +1,8 @@
+Arun,0,0.229
+Raman,0,1.887
+Charan,0,2.887
+Manu,3,8.792
+likith,2,44.312
+ganesh,10,39.835
+sri ganesh,10,35.037
+shreyan,10,36.519

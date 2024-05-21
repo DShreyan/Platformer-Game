@@ -1,0 +1,12 @@
+Likith,0,0.253
+Karthik,0,0.309
+Ram,0,0.239
+Vinodh,1,2.34
+Kiran,1,1.952
+Varun,1,2.685
+Ganesh,1,2.704
+Rahul,13,23.018
+Swaroop,11,24.993
+sri ganesh,16,39.399
+ganesh,15,46.625
+shreyan,15,44.71
